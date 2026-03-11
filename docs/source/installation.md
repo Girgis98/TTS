@@ -1,6 +1,6 @@
 # Installation
 
-🐸TTS supports python >=3.7 <3.11.0 and tested on Ubuntu 18.10, 19.10, 20.10.
+🐸TTS supports python >=3.9 <3.13.0 and tested on Ubuntu 18.10, 19.10, 20.10.
 
 ## Using `pip`
 
